@@ -1,0 +1,5 @@
+0001101221     Minh      Nguyen        40,000
+0003920123     Dylan     Dang          20,000
+0001029232     Dong-woo  Shin          62,000
+0002139120     Spongebob Squarepants   120,000
+0004720931     John      Cena          3,600,000
